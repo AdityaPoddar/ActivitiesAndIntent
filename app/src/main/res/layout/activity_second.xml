@@ -51,6 +51,7 @@
         android:ems="10"
         android:hint="@string/editText_second"
         android:inputType="textLongMessage"
+        android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button_second"
         app:layout_constraintStart_toStartOf="parent" />
